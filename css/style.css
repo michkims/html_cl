@@ -1,0 +1,34 @@
+p{
+  color: goldenrod;
+  font-family: Dialog;
+  font-size: 18px;
+}
+button{
+  color: red;
+  padding: 15px;
+  text-align: center;
+  font-size: 16px;
+  background-color: black;
+  border: 0;
+  margin: 20px;
+
+}
+td,th{
+  border:2px solid #e70404;
+  padding: 10px;
+  text-align: center;
+  color: blue;
+  font-family: "Lohit Gujarati";
+  border-radius: 10px;
+}
+table{
+  width:90%;
+  border-collapse:collapse;
+  margin: 10px;
+}
+ul,ol{
+  color: #0040ff;
+  text-align:left;
+  font-family: "Abyssinica SIL";
+
+}
